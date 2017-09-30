@@ -1,4 +1,4 @@
 # ReactWeatherApp
 
 Simple React-Redux app for weather 
-Demo: <a link="simple-weather-app.surge.sh"> Link </a>
+Demo: <a href="simple-weather-app.surge.sh"> Link </a>
